@@ -2,5 +2,22 @@ h1{
   color: #96E8BC;
   font-family: 'Tangerine';
   font-weight: bold;
-  font-size: 45px;
+  font-size: 50px;
+}
+
+.carousel .carousel-inner{
+    height: 800px !important;
+
+}
+.fairy{
+  height:500px;
+  width:400px;
+}
+.display-3 {
+  margin-left: 200px;
+  margin-top: 100px
+}
+.lead{
+  margin-left: 250px;
+  margin-top: 50px;
 }
