@@ -2,7 +2,7 @@
   color: #7EB09B;
   font-family: 'Tangerine';
   font-weight: bold;
-  font-size: 50px;
+  font-size: 60px;
 }
 
 .carousel .carousel-inner{
@@ -18,8 +18,10 @@
   margin-top: 100px
 }
 .lead{
-  margin-left: 250px;
+  margin-left: 260px;
   margin-top: 50px;
+  font-size: 25px;
+  font-family: 'Cormorant Garamond', serif;
 }
 .card-body{
   background-color:#B6F9C9;
@@ -44,5 +46,13 @@ h2{
 }
 p{
   font-family: 'Gentium Basic', serif;
+  font-size: 30px;
+}
+.card-text{
+  font-family: 'Rokkitt', serif;
+  font-size: 20px;
+}
+.card-title{
+  font-family: 'Niconne', cursive;
   font-size: 30px;
 }
